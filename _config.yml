@@ -126,9 +126,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/pABXAzBtJH"
+
 
 # Site Footer
 footer:
@@ -151,9 +149,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-          - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/pABXAzBtJH"
 
 
 # Reading Files
